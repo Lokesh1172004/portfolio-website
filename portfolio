@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial portfolio website"
+git branch -M main
+git remote add origin https://github.com/Lokesh1172004/portfolio-website.git
+git push -u origin main
