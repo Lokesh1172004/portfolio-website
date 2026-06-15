@@ -68,7 +68,7 @@ export default function Hero() {
               color: 'transparent' 
             }}
           >
-            Data Analyst & Business Analyst
+            Business Data Analyst
           </motion.div>
 
           <motion.p
