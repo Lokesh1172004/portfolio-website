@@ -115,7 +115,7 @@ export default function About() {
                     DEPT
                   </div>
                   <div className="text-sm font-semibold text-white/80">
-                    Clinical Data
+                    Commercial Data
                   </div>
                 </div>
               </div>
