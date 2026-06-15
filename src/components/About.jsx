@@ -107,7 +107,7 @@ export default function About() {
                     ROLE
                   </div>
                   <div className="text-sm font-semibold text-[#FF2A2A]">
-                    Business Analyst
+                    Business Data Analyst
                   </div>
                 </div>
                 <div>
@@ -146,7 +146,7 @@ export default function About() {
           </h2>
 
           <p className="text-black/80 text-lg md:text-xl font-medium leading-relaxed mb-8">
-            I'm Lokesh Zambare, a final-year B.Tech Electrical Engineering student at Maulana Azad National Institute of Technology (MANIT), Bhopal, with a strong focus on data analytics and machine learning. I currently work as a Business Analyst Intern at Circulants Software, where I analyze clinical and commercial datasets and support data governance initiatives. I specialize in Python, SQL, machine learning, and data visualization — passionate about turning complex datasets into business decisions through clustering, EDA, and statistical analysis.
+            I'm Lokesh Zambare, a final-year B.Tech Electrical Engineering student at Maulana Azad National Institute of Technology (MANIT), Bhopal, with a strong focus on data analytics and machine learning. I currently work as a Business Data Analyst Intern at Circulants Software, where I analyze clinical and commercial datasets and support data governance initiatives. I specialize in Python, SQL, machine learning, and data visualization — passionate about turning complex datasets into business decisions through clustering, EDA, and statistical analysis.
           </p>
 
           <div className="font-display font-extrabold text-xl md:text-2xl tracking-wide text-black mb-12">

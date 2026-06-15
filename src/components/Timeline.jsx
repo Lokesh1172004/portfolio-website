@@ -26,9 +26,9 @@ export default function Timeline() {
     },
     {
       step: '02',
-      title: 'Business Analyst Intern',
+      title: 'Business Data Analyst Intern',
       institution: 'Circulants Software Pvt. Ltd.',
-      location: 'Pune (Remote)',
+      location: 'Pune (Onsite)',
       date: 'Jan 2026 – July 2026',
       description: 'Analyzed clinical & commercial datasets, organized healthcare data assets using Alation Data Catalog, standardized 30+ glossary terms, and supported Master Data Management (MDM) initiatives to improve data governance.',
       align: 'left',
