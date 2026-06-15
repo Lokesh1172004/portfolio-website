@@ -33,10 +33,10 @@ export default function Footer() {
             Services
           </span>
           <div className="flex flex-col font-mono text-xs text-[#D4D4D4] space-y-1.5 uppercase tracking-wider">
-            <span>Data Analysis</span>
-            <span>Machine Learning</span>
-            <span>Data Visualization</span>
             <span>Business Analytics</span>
+            <span>Data Analysis</span>
+            <span>Data Visualization</span>
+            <span>Machine Learning</span>
           </div>
         </div>
 
